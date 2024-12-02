@@ -1,0 +1,25 @@
+{
+  "name": "@hossein/is-test",
+  "version": "1.0.0",
+  "description": "Is the string TEST?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hsn0najafi/is-test.git"
+  },
+  "keywords": [
+    "IS_TEST"
+  ],
+  "author": "Hossein Najafi <hsn0najafi@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hsn0najafi/is-test/issues"
+  },
+  "homepage": "https://github.com/hsn0najafi/is-test#readme",
+  "devDependencies": {
+    "@types/node": "^22.10.1"
+  }
+}
